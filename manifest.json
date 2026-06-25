@@ -1,0 +1,5 @@
+{
+  "url": "GIFTSTR",                        // required
+  "name": "GIFTSTR Community bot",                      // required
+  "iconUrl": "https://raw.githubusercontent.com/drpussy/giftstr/refs/heads/main/holders%20bot.png"
+}
